@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .tenor-gif-embed {
+    margin:auto;
+  }
+  
+  .navbar {
+    background-color: #333;
+    overflow:hidden;
+    
+  
+  }
+  
+  .navbar a{
+    float:left;
+    color:white;
+    text-align: center;
+    padding: 15px;
+    font-size: 15px;
+    text-align: center;
+  
+  }
+  
+  .navbar a:hover{
+    background-color: crimson;
+    color: white;
+  
+  }
+  
+  .navbar a.active{
+    background-color: crimson;
+    color: white;
+  
+  }
