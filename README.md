@@ -1,17 +1,23 @@
 # UoS Hacktoberfest 2023
 
-Welcome to the Website repo. Your goal is to complete all of the issues outlined in the issues tab of this repo.
+Welcome to the UOS Hacktoberfest event! To contribute, look at the issues tab, and submit your solutions.
 
 #### Rules
-1) Clone index.html as a starting base for your solution
-2) Add your submissions to the submissions directory, name the file like this "UOS_ID-ISSUE_NAME.html"
-3) Multiple people can submit a solution to the same issue
+1) Copy index.html as a starting base for your solution
 
-Please add your answers to the "src/submissions" directory with the filename "UOS_ID-ISSUE_NAME.html"
-If you want to create your own stylesheet, please create one under the style directory, name it after your
-student ID in order to avoid conflict with other submissions. 
+2) When submitting solutions, create a folder under your name in submissions, and save your work there before sending a pull request. (For example. /Submissions/Oliver/index.html)
 
-For example: s224994.css
+3) If you want to create your own stylesheet, please create it within your personal directory in the submissions
+folder. This is to ensure that the work of other students is kept seperate!
+
+3) Multiple people can submit a solution to the same issue! (But you can't submit another solution to an issue you've already solved, these pull requests will be denied!)
+
+
+
+
+If you need help, feel free to ask. But also remember, most of these issues can be solved with 
+a google search! Make sure to follow rules 2 & 3 to ensure correct formatting, otherwise your pull request 
+may be declined.
 
 Written by:
 Oliver Minter - King.
