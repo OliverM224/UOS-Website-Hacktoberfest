@@ -15,8 +15,7 @@ folder. This is to ensure that the work of other students is kept seperate!
 
 
 
-If you need help, feel free to ask. But also remember, most of these issues can be solved with 
-a google search! Make sure to follow rules 2 & 3 to ensure correct formatting, otherwise your pull request 
+If you need help, feel free to ask! Make sure to follow rules 2 & 3 to ensure correct formatting, otherwise your pull request 
 may be declined.
 
 Written by:
